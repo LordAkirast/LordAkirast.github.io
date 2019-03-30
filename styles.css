@@ -1,0 +1,18 @@
+body {
+    background-color: green;
+  }
+  
+  #infoinicial {
+    text-align: center;
+  }
+  
+  #header {
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+  }
+  
+  #header img {
+    width: 100px;
+  }
+  
